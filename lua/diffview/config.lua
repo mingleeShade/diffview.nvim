@@ -62,7 +62,7 @@ M.defaults = {
       layout = "diff2_horizontal",
     },
     merge_tool = {
-      layout = "diff3_horizontal",
+      layout = "diff4_mixed",
       disable_diagnostics = true,
     },
     file_history = {
